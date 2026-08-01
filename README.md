@@ -1,103 +1,170 @@
-<!--
-HOW TO USE THIS FILE
-1. Create a new PUBLIC repository named exactly: Kh1004  (must match your username)
-2. Add this file to it as README.md
-3. GitHub automatically shows it on your profile page (github.com/Kh1004)
--->
+<div align="center">
 
-<h1 align="center">Hi, I'm Kavinath 👋</h1>
-<h3 align="center">Backend Engineer building event-driven systems that process 1,000+ events/sec in production</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-white.svg">
+  <img alt="Suventhiran Kavinath banner" src="banner-white.svg">
+</picture>
 
-<p align="center">
-  <a href="https://kavinath.dev"><img src="https://img.shields.io/badge/Portfolio-kavinath.dev-2563EB?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/kavinath04"><img src="https://img.shields.io/badge/LinkedIn-kavinath04-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kavinathsuventhiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+with+2%2B+years+of+experience;Real-Time+%26+Event-Driven+Systems;NestJS+%C2%B7+Spring+Boot+%C2%B7+Node.js;AI+Infrastructure+%26+Enterprise+SaaS;1%2C000%2B+events%2Fsec+in+production)](https://git.io/typing-svg)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Kh1004&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/Kh1004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kavinath.dev-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://kavinath.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kavinath04-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinath04)
+[![GitHub](https://img.shields.io/badge/GitHub-Kh1004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kh1004)
+[![Email](https://img.shields.io/badge/Email-kavinathsuventhiran%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kavinathsuventhiran@gmail.com)
 
-### About
-
-I'm the sole backend engineer on a production, industrial-grade alarm monitoring platform at **Hirush Automation**, sustaining **1,000+ device events/sec** with zero message loss — architecture, deployment, and on-call ownership included. I specialize in event-driven backend systems: NestJS, Redis/BullMQ queues, PostgreSQL, and WebSocket-driven real-time delivery, deployed and automated end-to-end with Docker and GitHub Actions.
-
-Currently extending into **AI-backed platforms** — building a multi-provider LLM gateway with RAG — and adding automated testing discipline (Vitest, Playwright) to independent projects.
-
-- 🔭 Currently building **Sentinel**, a multi-tenant AI governance gateway (NestJS, pgvector, RAG)
-- 🌱 Currently learning: cloud infrastructure (AWS), Kubernetes
-- 💬 Ask me about: event-driven architecture, real-time systems (WebSockets), Redis/BullMQ queues, PostgreSQL schema design
-- 📫 Reach me: kavinathsuventhiran@gmail.com
+</div>
 
 ---
 
-### Tech Stack
+## 👨‍💻 About Me
 
-**Backend & Languages**
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+Backend Engineer with **2+ years** of professional experience building production software from **architecture → deployment** — **10+ projects** shipped across real-time platforms, AI infrastructure, and enterprise SaaS.
 
-**Data & Messaging**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Currently the **sole backend engineer** behind an industrial real-time alarm monitoring platform responsible for:
 
-**Infra & DevOps**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+- 🚀 Backend Architecture
+- ⚡ Event-Driven Systems
+- 🔴 Real-Time APIs & WebSockets
+- 🗄️ PostgreSQL Database Design
+- 📦 Redis & BullMQ Queue Processing
+- 🐳 Docker Infrastructure
+- 🔄 GitHub Actions CI/CD
+- ☁️ Production Deployment
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+- 💬 Ask me about: NestJS, Spring Boot, Node.js, PostgreSQL, Redis, Docker, real-time systems
+- 📫 Reach me: [kavinath.dev](https://kavinath.dev) · [LinkedIn](https://linkedin.com/in/kavinath04) · [Email](mailto:kavinathsuventhiran@gmail.com)
 
 ---
 
-### Featured Projects
+## 🛠️ Technologies & Tools
 
-| Project | What it does | Stack |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h6>Backend 💻</h6>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h6>Database 🗃️</h6>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h6>DevOps & Infra ⚙️</h6>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/BullMQ-C0392B?style=plastic&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=plastic&logo=pm2&logoColor=white" />
+      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=plastic&logo=digitalocean&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <h6>Frontend & AI 🤖</h6>
+      <img src="https://img.shields.io/badge/React-58c4dc?style=plastic&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-00bcff?style=plastic&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=plastic&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anthropic-D97757?style=plastic&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/pgvector-4169E1?style=plastic&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-58a6ff?style=plastic&logo=opensearch&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=Kh1004&theme=github-dark-blue&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🌱 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kh1004&theme=github-dark&hide_border=true&hide_title=false&area=true" />
+
+### 🏆 GitHub Profile Trophy
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kh1004&theme=onedark&no-frame=true&row=1" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> These should also be [pinned](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) to your GitHub profile. Update the links once the repos exist.
+
+| Project | Description | Stack |
 |---|---|---|
-| **[WhatsApp Business Messaging & Billing Platform](#)** *(private — see note below)* | Enterprise NestJS framework repurposed into a WhatsApp Cloud API messaging system with per-client billing, queue fallback, and a built-in admin dashboard | NestJS · PostgreSQL · Redis/BullMQ · Prisma · Socket.IO |
-| **[Sentinel — AI Governance Platform](#)** *(in progress)* | Multi-tenant gateway enforcing AI usage policy across LLM providers, with RAG (pgvector), audit logging, encrypted key management | NestJS · PostgreSQL · pgvector · Redis/BullMQ |
-| **[NexusERP](#)** | Multi-tenant order-to-cash ERP — quotations, invoicing, P&L reporting, 50+ configurable RBAC permissions, covered by automated tests | Next.js · Prisma · Vitest · Playwright |
-| **[Bundle — Book Reading Platform](https://github.com/Kh1004/book_reading_app)** | Flutter + NestJS publishing platform, live on Google Play | NestJS · Flutter · MySQL · Firebase |
-| **Centralized Alarm Monitoring System** *(NDA — production system at Hirush Automation)* | Real-time industrial alarm platform processing 1,000+ events/sec | NestJS · Redis · PostgreSQL · WebSockets |
-
-*(Replace the `#` links above with live repo/demo URLs once each project is published — see the branding guide for details.)*
-
-**Before publishing the WhatsApp project:** its CORS whitelist is currently hard-coded to a production IP in `main.ts` rather than pulled from environment config — move that to config before making the repo public, both for hygiene and so it doesn't expose infrastructure details in a public repo.
-
-### Recommended Pin Order
-
-GitHub only shows 6 pinned repos, and right now yours are dominated by older PHP/Laravel coursework projects that don't reflect your current stack. Recommended order, once the above are published:
-
-1. **whatsapp_dashboard_api** — your strongest engineering-hygiene showcase (tests, CI, structured logging, queue resilience)
-2. **portfolio** (once its README is fixed — see earlier notes)
-3. **NexusERP**
-4. **book_reading_app** (Bundle — already live, keep pinned)
-5. **sentinel** (once published)
-6. One general-purpose repo of your choice, or leave a 6th slot open
-
-Unpin the campus/bakery Laravel repos and the C++ event management project — archive them or leave them unpinned rather than deleting, so the history stays but doesn't lead a recruiter's first impression.
+| 🚨 **Centralized Alarm Monitoring System** *(NDA)* | SCADA-grade real-time monitoring platform processing **1,000+ device events/sec**. | NestJS • Redis • PostgreSQL • BullMQ • Docker |
+| 🤖 **Sentinel – AI Governance Platform** | Enterprise AI governance platform with LLM Gateway, Policy Engine, RAG, and Audit Logging. | NestJS • PostgreSQL • pgvector • Redis |
+| 💬 **WhatsApp Business Messaging Platform** | WhatsApp Cloud API platform with billing, queue processing, templates, and dashboard. | NestJS • Prisma • PostgreSQL • Redis |
+| 🏢 **NexusERP** | Multi-tenant ERP with inventory, quotations, RBAC, reporting, and testing. | Next.js • Prisma • PostgreSQL |
+| 📚 **Bundle** | Flutter + NestJS digital publishing platform available on Google Play. | Flutter • NestJS • Firebase |
 
 ---
 
-### GitHub Stats
+## ⚡ Engineering Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kh1004&show_icons=true&theme=default&hide_border=true" alt="Kavinath's GitHub stats" />
-</p>
+✅ Event-Driven Architecture&nbsp;&nbsp;&nbsp;✅ Clean Architecture&nbsp;&nbsp;&nbsp;✅ REST APIs&nbsp;&nbsp;&nbsp;✅ WebSockets&nbsp;&nbsp;&nbsp;✅ JWT Authentication
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kh1004&hide_border=true" alt="Kavinath's GitHub streak" />
-</p>
-
-*(These badges pull live numbers directly from the GitHub API — they'll always stay accurate on their own, unlike hardcoded stats.)*
+✅ Role-Based Access Control&nbsp;&nbsp;&nbsp;✅ Redis & BullMQ Queues&nbsp;&nbsp;&nbsp;✅ PostgreSQL Performance&nbsp;&nbsp;&nbsp;✅ Docker Deployment&nbsp;&nbsp;&nbsp;✅ GitHub Actions CI/CD&nbsp;&nbsp;&nbsp;✅ Production Infrastructure
 
 ---
 
-<p align="center"><i>Open to Backend Engineering and Platform Engineering roles — full-time, remote-friendly.</i></p>
+## 🌱 Currently Learning
+
+- ☁️ AWS
+- ☸️ Kubernetes
+- 📊 Prometheus & Grafana
+- 🤖 AI Infrastructure
+- 🧪 Advanced Testing
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/Kh1004">Suventhiran Kavinath</a></sub>
+</div>
