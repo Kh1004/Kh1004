@@ -34,7 +34,11 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
 - ☁️ Production Deployment
 
 - 💬 Ask me about: NestJS, Spring Boot, Node.js, PostgreSQL, Redis, Docker, real-time systems
-- 📫 Reach me: [kavinath.dev](https://kavinath.dev) · [LinkedIn](https://linkedin.com/in/kavinath04) · [Email](mailto:kavinathsuventhiran@gmail.com)
+- 📫 Reach me:
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-kavinath.dev-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://kavinath.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavinath04-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinath04)
+  [![Email](https://img.shields.io/badge/Email-kavinathsuventhiran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavinathsuventhiran@gmail.com)
 
 ---
 
@@ -97,7 +101,7 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=Kh1004&theme=github-dark-blue&hide_border=true" />
@@ -105,10 +109,10 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kh1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kh1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
       </td>
     </tr>
   </table>
@@ -121,7 +125,7 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
 ### 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kh1004&theme=onedark&no-frame=true&row=1" />
+  <img src="https://trophy.ryglcloud.net/?username=Kh1004&theme=onedark&no-frame=true&row=1" />
 </div>
 
 ---
@@ -164,7 +168,7 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
 <!--END_SECTION:activity-->
 
 ---
-
+<!-- 
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/Kh1004">Suventhiran Kavinath</a></sub>
-</div>
+</div> -->
