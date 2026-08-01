@@ -20,6 +20,8 @@
 
 ## 👨‍💻 About Me
 
+Building scalable industrial telemetry platforms where each connected source can produce **1,000+ data points per second**.
+
 Backend Engineer with **2+ years** of professional experience building production software from **architecture → deployment** — **10+ projects** shipped across real-time platforms, AI infrastructure, and enterprise SaaS.
 
 Currently the **sole backend engineer** behind an industrial real-time alarm monitoring platform responsible for:
@@ -133,7 +135,7 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚨 **Centralized Alarm Monitoring System** *(NDA)* | SCADA-grade real-time monitoring platform processing **1,000+ device events/sec**. | NestJS • Redis • PostgreSQL • BullMQ • Docker |
+| 🚨 **Centralized Alarm Monitoring System** *(NDA)* | Real-time industrial alarm platform ingesting data from multiple sources, each carrying **1,000+ data points/sec**. | NestJS • Redis • PostgreSQL • BullMQ • Docker |
 | 🤖 **Sentinel – AI Governance Platform** | Enterprise AI governance platform with LLM Gateway, Policy Engine, RAG, and Audit Logging. | NestJS • PostgreSQL • pgvector • Redis |
 | 💬 **WhatsApp Business Messaging Platform** | WhatsApp Cloud API platform with billing, queue processing, templates, and dashboard. | NestJS • Prisma • PostgreSQL • Redis |
 | 🏢 **NexusERP** | Multi-tenant ERP with inventory, quotations, RBAC, reporting, and testing. | Next.js • Prisma • PostgreSQL |
