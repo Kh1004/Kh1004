@@ -101,18 +101,15 @@ Currently the **sole backend engineer** behind an industrial real-time alarm mon
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&rank_icon=github" />
+        <img src="./profile/stats.svg" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=Kh1004&theme=github-dark-blue&hide_border=true" />
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kh1004&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=Kh1004&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+      <td colspan="2">
+        <img src="./profile/top-langs.svg" />
       </td>
     </tr>
   </table>
